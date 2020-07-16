@@ -8,7 +8,8 @@
 import Foundation
 
 public final class YoutubeKit {
-    
+   
+    // signleton
     public static let shared = YoutubeKit()
     public static let youtubeDataAPIVersion = "v3"
     
